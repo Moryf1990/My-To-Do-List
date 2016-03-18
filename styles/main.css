@@ -1,0 +1,40 @@
+.addBtn {
+  margin: 2em auto;
+  display: block;
+  background: darkblue;
+  color: lightblue;
+  font-weight: bold; }
+
+.addBtn:hover {
+  color: darkblue;
+  background: lightblue;
+  font-weight: bold;
+  border-radius: 2em; }
+
+.toDoItems {
+  margin: 0 auto;
+  display: block;
+  background: yellow;
+  color: blue;
+  font-weight: bold; }
+
+::-webkit-input-placeholder {
+  color: green;
+  font-weight: bold; }
+
+.resetBtn {
+  background: darkblue;
+  color: lightblue;
+  font-weight: bold; }
+
+.resetBtn:hover {
+  color: darkblue;
+  background: lightblue;
+  font-weight: bold;
+  border-radius: 2em; }
+
+.toDoList {
+  color: green;
+  font-weight: bold; }
+
+/*# sourceMappingURL=main.css.map */
